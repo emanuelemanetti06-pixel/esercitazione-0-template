@@ -1,12 +1,13 @@
 # Osservazioni — Esercitazione 0
 
-Gruppo:
+Gruppo: 100
+
 
 Componenti (nome, cognome e username GitHub di entrambi): Emanuele Manetti Em4nu3l3; Alessandro Olivieri 0l1vier1.
 
 URL del repository condiviso:
 
-Chi ha usato la tastiera nello step 1 e nello step 2:
+Chi ha usato la tastiera nello step 1 e nello step 2: Emanuele Manetti
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
@@ -56,6 +57,11 @@ Come un controllo automatico può riconoscere un errore:
 Quando serve ricompilare e quando basta cambiare gli argomenti:
 
 ## Step 2 — Git
+
+Come riconosco nella cronologia i commit dei due step:
+
+Come ho verificato che la versione finale sia presente su GitHub:
+
 
 Come riconosco nella cronologia i commit dei due step:
 
