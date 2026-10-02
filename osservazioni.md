@@ -1,6 +1,6 @@
 # Osservazioni — Esercitazione 0
 
-Gruppo: 100.
+Gruppo: 100
 
 
 Componenti (nome, cognome e username GitHub di entrambi): Emanuele Manetti Em4nu3l3; Alessandro Olivieri 0l1vier1.
