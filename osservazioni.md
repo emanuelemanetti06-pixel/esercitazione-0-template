@@ -2,26 +2,25 @@
 
 Gruppo:
 
-Componenti (nome, cognome e username GitHub di entrambi): Emanuele Manetti Em4nu3l3; Alessandro Olivieri 0l1vier1.
+Componenti (nome, cognome e username GitHub di entrambi): 
 
 URL del repository condiviso:
 
-Chi ha usato la tastiera nello step 1 e nello step 2: Emanuele Manetti
+Chi ha usato la tastiera nello step 1 e nello step 2:
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
 
 ## Step 1 — Hello World: compilazione ed esecuzione
 
-Comando di compilazione: gcc -std=c17 -Wall -Wextra -Wpedantic hello.c -o hello
+Comando di compilazione: 
 
-Comando di esecuzione e risultato osservato: ./hello,  viene mostrato a schermo ciò che viene richiesto al codice di stampare.
+Comando di esecuzione e risultato osservato: 
 
-Che cosa ho capito su sorgente ed eseguibile: Il codce eseguibile dipende dalla compilazione di quello sorgente; modifiche effettuate al codice sorgente non influiscono su quello eseguibile se non viene prima compilato.
+Che cosa ho capito su sorgente ed eseguibile: 
+Output richiesto e comportamento del programma prima della modifica: 
 
-Output richiesto e comportamento del programma prima della modifica: L'output richiesto era la stampa a schermo di "Hello, computational physics!", e prima delle modifiche questa avveniva come previsto
-
-Esito dopo la modifica e spiegazione della correzione: La modifica, con l'aggiunta di "> output.txt" al comando di esecuzione, ha portato alla stampa del messaggio sul file output.txt anziché a schermo
+Esito dopo la modifica e spiegazione della correzione: 
 
 ## Step 1 — Git
 
