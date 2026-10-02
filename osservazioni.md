@@ -61,3 +61,8 @@ Quando serve ricompilare e quando basta cambiare gli argomenti:
 Come riconosco nella cronologia i commit dei due step:
 
 Come ho verificato che la versione finale sia presente su GitHub:
+
+
+Come riconosco nella cronologia i commit dei due step:
+
+Come ho verificato che la versione finale sia presente su GitHub:
