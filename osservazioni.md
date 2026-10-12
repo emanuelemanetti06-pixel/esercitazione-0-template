@@ -34,27 +34,28 @@ Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clon
 
 ## Step 2 — Eco: prima prova
 
-Argomenti passati, comando e risultato:
+Argomenti passati, comando e risultato: ciao 12 3.5, echo $? ha dato 0,  ciao 12 3.5
 
-Che cosa posso concludere:
+Che cosa posso concludere: Il programma funziona correttamente quando gli argomenti sono validi.
 
 ## Step 2 — Eco: seconda prova
 
-Argomenti passati, comando e risultato:
+Argomenti passati, comando e risultato: ciao dodici 3.5, echo $? ha dato 0, ciao 0 3.5
 
-Che cosa ho capito su testo, conversioni e stampa:
+Che cosa ho capito su testo, conversioni e stampa: la parte del testo rimane invariata poiché è valida, la conversione con atoi invece fallisce e restituisce 0, mentre quella con atof rimane invariata per la validità dell'argomento. Il programma non segnala errori e stampa comunque i valori convertiti.
 
 ## Step 2 — Risultato ed errori
 
-Previsioni per l'esecuzione con argomenti validi e per quella con `dodici`:
+Previsioni per l'esecuzione con argomenti validi e per quella con `dodici`: Quella con argomenti validi funziona normalmente, mentre con dodici la conversione restituisce 0.
 
-Contenuto di `eco.txt`, messaggi nel terminale e codici di uscita osservati:
+Contenuto di `eco.txt`, messaggi nel terminale e codici di uscita osservati: Primo test: ciao 12 3.5 , Secondo test: ciao 0 3.5 .  In entrambi i casi il terminale non mostra errori ed echo $? restituisce 0 per entrambe le prove. L'unica differenza sta nella conversione del dodici in 0.
 
-Come un controllo automatico può riconoscere un errore:
+
+Come un controllo automatico può riconoscere un errore: confrontando output atteso ed effettivo e verificando che le conversioni avvengano correttamente e gli eventuali 0 non siano dovuti ad errori di conversione.
 
 ## Step 2 — Parametri e calcolo fisico
 
-Quando serve ricompilare e quando basta cambiare gli argomenti:
+Quando serve ricompilare e quando basta cambiare gli argomenti: Serve ricompilare se cambio logica, formula o intrpretazione degli argomenti direttamente nel codice, se invece solo gli argomenti forniti in input devono variare allora non è necessario e basta appunto cambiare tali argomenti.
 
 ## Step 2 — Git
 

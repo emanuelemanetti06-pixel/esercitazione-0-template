@@ -10,13 +10,13 @@ int main(int argc, char *argv[])
 
     char *testo = argv[1];
 
-    int intero = atoi(argv(2));
+    int intero = atoi(argv[2]);
 
-    double reale = atof(argv(3));
+    double reale = atof(argv[3]);
     
     (void)testo;
 
-    printf("%s, %d, %lf\n" testo, intero, reale );
+    printf("%s %d %.6f\n", testo, intero, reale );
     
    
     return 0;
