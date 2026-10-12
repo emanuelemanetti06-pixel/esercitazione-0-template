@@ -59,11 +59,6 @@ Quando serve ricompilare e quando basta cambiare gli argomenti: Serve ricompilar
 
 ## Step 2 — Git
 
-Come riconosco nella cronologia i commit dei due step:
+Come riconosco nella cronologia i commit dei due step: Confronto tempistiche e commenti associati ai singoli commit per verificare il completamento dei singoli step
 
-Come ho verificato che la versione finale sia presente su GitHub:
-
-
-Come riconosco nella cronologia i commit dei due step:
-
-Come ho verificato che la versione finale sia presente su GitHub:
+Come ho verificato che la versione finale sia presente su GitHub: Con git status verifico che non ci siano versioni aggiornate di cui non sonostati effettuati commit e push.
