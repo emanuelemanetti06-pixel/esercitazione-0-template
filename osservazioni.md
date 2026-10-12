@@ -7,7 +7,7 @@ Componenti (nome, cognome e username GitHub di entrambi): Emanuele Manetti Em4nu
 
 URL del repository condiviso: https://github.com/emanuelemanetti06-pixel/esercitazione-0-template 
 
-Chi ha usato la tastiera nello step 1 e nello step 2: Emanuele Manetti
+Chi ha usato la tastiera nello step 1 e nello step 2: Emanuele Manetti, Alessandro Olivieri
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
